@@ -1,6 +1,6 @@
 Hi there!
 
-I am an undergraduate electrical engineering student at UPJV (France).
+I am pursuing a master's degree in electrical engineering at UPJV (France).
 
 I am mostly interested in control theory and its applications in vehicles and mobile robotics but also in embedded systems programming.
 
